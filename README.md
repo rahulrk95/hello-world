@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Initial Repository
+Initial Repository. All humans must read.
